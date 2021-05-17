@@ -1,7 +1,7 @@
 # Личный проект «Техномарт»
 
 * Студент: [Руслан Досмайыл](https://up.htmlacademy.ru/htmlcss/31/user/1795679).
-* Наставник: `Неизвестно`.
+* Наставник: [Сергей Артёмов] (https://htmlacademy.ru/profile/firefoxic).
 
 ---
 
